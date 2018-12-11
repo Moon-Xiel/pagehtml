@@ -1,0 +1,51 @@
+/* Body Style */
+
+body {	margin: 0;
+       	padding: 0;	
+	background-image: url("background.jpg");
+	background-position: fixed;
+}
+
+/*Logo Style */
+
+.logo {
+	margin: auto;
+	width: auto;}
+
+/* Navbar Style */
+
+.nav { 
+	width: 91%;
+	float: right;
+	border: 0.1px solid darkgrey;
+}
+
+ul {
+	background-color: white;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+	margin: 0;
+	
+}
+
+li a { 
+	display: block;
+	color: black;
+	float: left;
+	width: 20%;
+	padding: 40px 0;
+	text-align: center;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color : pink}
+
+.ban { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+ }
+

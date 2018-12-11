@@ -1,0 +1,57 @@
+/* Header style */
+
+header {
+    background-color: gainsboro;
+    padding: 10px 50px;
+    text-align: center;
+    border-style: double;
+    width: 60%;
+    margin-left: 60px;
+}
+
+/* Navbar style */
+
+nav
+ul {
+    list-style-type: none;
+    margin: none;
+    padding: none;
+    overflow: hidden;
+    background-color: lightgray;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 50px;
+    text-decoration: none;
+    margin-left: 60px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: darkgray;
+}
+
+}
+
+
+
+img {
+    float: left;
+}
+
+nav {
+    margin: 60px;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 3px 2px white;
+    font-family: "Time New Roman";
+}
